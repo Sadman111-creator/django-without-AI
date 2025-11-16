@@ -1,0 +1,29 @@
+li a {
+    color: black;
+}
+
+body {
+    background: white url("https://www.codewithrandom.com/wp-content/uploads/2022/10/Number-Guessing-Game-using-JavaScript-3.png") no-repeat;
+}
+
+li {
+  color:aquaS  
+}
+
+
+.button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+
+.button2:hover {box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)}
